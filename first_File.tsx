@@ -25,7 +25,11 @@ export default function my_app(){
 
 
 <h1> For displaying data</h1>
+const user={
+  name:'Anirudh vashisth',
+  
 
+}
 function Display(){
   return (
     <h1>
